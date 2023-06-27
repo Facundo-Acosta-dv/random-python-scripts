@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+.env
+.exe
+__init__
+config.json
